@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Vineet\\AndroidStudioProjects\\SecurityApp3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher1.png",
+        "source": "C:\\Users\\Vineet\\AndroidStudioProjects\\SecurityApp3\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher1.png"
+    },
+    {
+        "merged": "C:\\Users\\Vineet\\AndroidStudioProjects\\SecurityApp3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\Vineet\\AndroidStudioProjects\\SecurityApp3\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    }
+]

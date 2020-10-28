@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Vineet\\AndroidStudioProjects\\SecurityApp3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Vineet\\.android\\build-cache\\9d2ec348f34954cac689022a9b2bfc9e485981ad\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vineet\\AndroidStudioProjects\\SecurityApp3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Vineet\\.android\\build-cache\\9d2ec348f34954cac689022a9b2bfc9e485981ad\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vineet\\AndroidStudioProjects\\SecurityApp3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Vineet\\.android\\build-cache\\9d2ec348f34954cac689022a9b2bfc9e485981ad\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vineet\\AndroidStudioProjects\\SecurityApp3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Vineet\\.android\\build-cache\\9d2ec348f34954cac689022a9b2bfc9e485981ad\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

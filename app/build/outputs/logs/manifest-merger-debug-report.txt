@@ -1,0 +1,119 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Vineet\AndroidStudioProjects\SecurityApp3\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\Vineet\AndroidStudioProjects\SecurityApp3\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\Vineet\AndroidStudioProjects\SecurityApp3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Vineet\AndroidStudioProjects\SecurityApp3\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Vineet\AndroidStudioProjects\SecurityApp3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Vineet\AndroidStudioProjects\SecurityApp3\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Vineet\AndroidStudioProjects\SecurityApp3\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Vineet\AndroidStudioProjects\SecurityApp3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Vineet\AndroidStudioProjects\SecurityApp3\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Vineet\AndroidStudioProjects\SecurityApp3\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\Vineet\AndroidStudioProjects\SecurityApp3\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\Vineet\AndroidStudioProjects\SecurityApp3\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\Users\Vineet\AndroidStudioProjects\SecurityApp3\app\src\main\AndroidManifest.xml:6:22-69
+uses-permission#android.permission.ACCESS_INTERNET
+ADDED from C:\Users\Vineet\AndroidStudioProjects\SecurityApp3\app\src\main\AndroidManifest.xml:7:5-73
+	android:name
+		ADDED from C:\Users\Vineet\AndroidStudioProjects\SecurityApp3\app\src\main\AndroidManifest.xml:7:22-71
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\Vineet\AndroidStudioProjects\SecurityApp3\app\src\main\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from C:\Users\Vineet\AndroidStudioProjects\SecurityApp3\app\src\main\AndroidManifest.xml:8:22-64
+application
+ADDED from C:\Users\Vineet\AndroidStudioProjects\SecurityApp3\app\src\main\AndroidManifest.xml:9:5-27:19
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Vineet\.android\build-cache\4e588fdb3ca70a598796d49bea63f2338411e257\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Vineet\.android\build-cache\9d2ec348f34954cac689022a9b2bfc9e485981ad\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Vineet\.android\build-cache\99ba53df392efe3391468d194d2a9c87709b86b9\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Vineet\.android\build-cache\6f304fd2e740e9d7af72dd26bc0c1ec872871633\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Vineet\.android\build-cache\8fac2037ed3809ca653cfa5df8e766d6f634f713\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Vineet\.android\build-cache\0cf6436fadcf6b106948d374914d33d8c9cdbe1a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Vineet\.android\build-cache\98b75a8d0c308d2e57162091d7b2cb1a2bce087c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Vineet\.android\build-cache\475a85eb5eba16e37ee78fb967ff03a524fc59f2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Vineet\.android\build-cache\4864dc581796f940bfabe1779c78577ff6649249\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha9] C:\Users\Vineet\.android\build-cache\51ab0cb062cfae9621a81eea2483831c84c7a12a\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Vineet\.android\build-cache\4abaeecf5df828c4fc6aba9d62f3051fa40b85a5\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Vineet\.android\build-cache\daeaa16b6ff427be2fa57b24bc597aeaebfd8fd8\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Vineet\AndroidStudioProjects\SecurityApp3\app\src\main\AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Vineet\AndroidStudioProjects\SecurityApp3\app\src\main\AndroidManifest.xml:14:9-35
+	android:roundIcon
+		ADDED from C:\Users\Vineet\AndroidStudioProjects\SecurityApp3\app\src\main\AndroidManifest.xml:13:9-54
+	android:allowBackup
+		ADDED from C:\Users\Vineet\AndroidStudioProjects\SecurityApp3\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from C:\Users\Vineet\AndroidStudioProjects\SecurityApp3\app\src\main\AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from C:\Users\Vineet\AndroidStudioProjects\SecurityApp3\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.example.sunakshi.securityapp.MainActivity
+ADDED from C:\Users\Vineet\AndroidStudioProjects\SecurityApp3\app\src\main\AndroidManifest.xml:16:9-25:20
+	android:label
+		ADDED from C:\Users\Vineet\AndroidStudioProjects\SecurityApp3\app\src\main\AndroidManifest.xml:18:13-45
+	android:theme
+		ADDED from C:\Users\Vineet\AndroidStudioProjects\SecurityApp3\app\src\main\AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from C:\Users\Vineet\AndroidStudioProjects\SecurityApp3\app\src\main\AndroidManifest.xml:17:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Vineet\AndroidStudioProjects\SecurityApp3\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Vineet\AndroidStudioProjects\SecurityApp3\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\Vineet\AndroidStudioProjects\SecurityApp3\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Vineet\AndroidStudioProjects\SecurityApp3\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\Vineet\AndroidStudioProjects\SecurityApp3\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.example.sunakshi.securityapp.Settings
+ADDED from C:\Users\Vineet\AndroidStudioProjects\SecurityApp3\app\src\main\AndroidManifest.xml:26:9-55
+	android:name
+		ADDED from C:\Users\Vineet\AndroidStudioProjects\SecurityApp3\app\src\main\AndroidManifest.xml:26:19-43
+uses-sdk
+INJECTED from C:\Users\Vineet\AndroidStudioProjects\SecurityApp3\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Vineet\.android\build-cache\4e588fdb3ca70a598796d49bea63f2338411e257\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Vineet\.android\build-cache\9d2ec348f34954cac689022a9b2bfc9e485981ad\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Vineet\.android\build-cache\99ba53df392efe3391468d194d2a9c87709b86b9\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Vineet\.android\build-cache\89438020448ec392401a58087e0b2133178ec5a7\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Vineet\.android\build-cache\6f304fd2e740e9d7af72dd26bc0c1ec872871633\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Vineet\.android\build-cache\8fac2037ed3809ca653cfa5df8e766d6f634f713\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Vineet\.android\build-cache\0cf6436fadcf6b106948d374914d33d8c9cdbe1a\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Vineet\.android\build-cache\98b75a8d0c308d2e57162091d7b2cb1a2bce087c\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Vineet\.android\build-cache\475a85eb5eba16e37ee78fb967ff03a524fc59f2\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Vineet\.android\build-cache\4864dc581796f940bfabe1779c78577ff6649249\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha9] C:\Users\Vineet\.android\build-cache\51ab0cb062cfae9621a81eea2483831c84c7a12a\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Vineet\.android\build-cache\4abaeecf5df828c4fc6aba9d62f3051fa40b85a5\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Vineet\.android\build-cache\daeaa16b6ff427be2fa57b24bc597aeaebfd8fd8\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Vineet\.android\build-cache\4e588fdb3ca70a598796d49bea63f2338411e257\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Vineet\AndroidStudioProjects\SecurityApp3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Vineet\AndroidStudioProjects\SecurityApp3\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Vineet\AndroidStudioProjects\SecurityApp3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Vineet\AndroidStudioProjects\SecurityApp3\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Vineet\.android\build-cache\4e588fdb3ca70a598796d49bea63f2338411e257\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Vineet\.android\build-cache\9d2ec348f34954cac689022a9b2bfc9e485981ad\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Vineet\.android\build-cache\99ba53df392efe3391468d194d2a9c87709b86b9\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Vineet\.android\build-cache\89438020448ec392401a58087e0b2133178ec5a7\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Vineet\.android\build-cache\6f304fd2e740e9d7af72dd26bc0c1ec872871633\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Vineet\.android\build-cache\8fac2037ed3809ca653cfa5df8e766d6f634f713\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Vineet\.android\build-cache\0cf6436fadcf6b106948d374914d33d8c9cdbe1a\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Vineet\.android\build-cache\98b75a8d0c308d2e57162091d7b2cb1a2bce087c\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Vineet\.android\build-cache\475a85eb5eba16e37ee78fb967ff03a524fc59f2\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Vineet\.android\build-cache\4864dc581796f940bfabe1779c78577ff6649249\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Vineet\.android\build-cache\4abaeecf5df828c4fc6aba9d62f3051fa40b85a5\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Vineet\.android\build-cache\daeaa16b6ff427be2fa57b24bc597aeaebfd8fd8\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Vineet\.android\build-cache\4e588fdb3ca70a598796d49bea63f2338411e257\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Vineet\.android\build-cache\4e588fdb3ca70a598796d49bea63f2338411e257\output\AndroidManifest.xml:26:9-47
